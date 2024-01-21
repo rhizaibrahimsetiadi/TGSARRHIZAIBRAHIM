@@ -1,0 +1,11 @@
+Model Information:
+* title:	Siege camp scene
+* source:	https://sketchfab.com/3d-models/siege-camp-scene-b8d6beb66c5a41c380269d51470e9f75
+* author:	BlackSpire (https://sketchfab.com/blackspire)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Siege camp scene" (https://sketchfab.com/3d-models/siege-camp-scene-b8d6beb66c5a41c380269d51470e9f75) by BlackSpire (https://sketchfab.com/blackspire) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
